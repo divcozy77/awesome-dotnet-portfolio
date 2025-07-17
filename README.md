@@ -19,7 +19,7 @@ Welcome to my professional GitHub portfolio. I'm a full-stack senior .NET engine
 ### 1. GIS Urban Planning Platform
 A government-scale spatial analysis tool integrating Leaflet, Blazor, GeoServer, and SQL Server for city planning.
 - ✅ Features spatial zoning, buffering, and interactive maps
-- 🔗 [Demo or Repo Link Placeholder](#)
+- 🔗 [Demo or Repo Link Placeholder](projects/GIS_Urban_Planning_README.md)
 - 📸 See: `/screenshots/gis-planner.png`
 
 ### 2. SaaS Financial Monitoring System
