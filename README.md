@@ -32,7 +32,7 @@ Developed automation add-ons for Service Manager and Operations Manager in enter
 - 📦 Enhanced ITIL processes with scripting and UI modules
 
 ### 4. Cloud-Based MIS for NGO (USAID)
-MIS tracking for donor-backed initiatives with dashboards and automated reporting.
+Project Tracking System for donor-backed initiatives with dashboards and automated reporting.
 - 🌐 Web-based dashboards for monitoring outcomes
 
 ## 📫 Contact
